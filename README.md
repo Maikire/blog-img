@@ -1,2 +1,0 @@
-# Blog-img
-Blog-img
